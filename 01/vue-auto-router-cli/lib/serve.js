@@ -5,7 +5,7 @@ const spawn = (...args) => {
     proc.stderr.pipe(process.stderr)
     return proc
 }
-
+// 监听文件变化 -- 自动重启项目
 module.exports = async () => {
     const watch = require('watch')
     let process

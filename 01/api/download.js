@@ -8,7 +8,7 @@ module.exports.clone = async function clone(repo, desc) {
         await download(repo,desc)
     } catch (error) {
         process.fail()
-    }
+    } 
     process.succeed()
 
     // download(repo, desc, err => {

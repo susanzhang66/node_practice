@@ -1,4 +1,5 @@
 test('练习02 中间件实现', () => {
+    // 创建一个函数
     const mockFn = jest.fn()
 
     const middlewares = [
@@ -15,8 +16,9 @@ test('练习02 中间件实现', () => {
     ]
     const { compose } = require('../index')
     compose(middlewares)()
-    
+    // calls调用了的函数。
     const calls = mockFn.mock.calls
+    // 一共调用了4次
     expect(calls.length).toBe(4);
     expect(calls[0][0]).toBe('1 start');
     expect(calls[1][0]).toBe('2 start');

@@ -3,6 +3,8 @@ const figlet = promisify(require('figlet'))
 const clear = require('clear')
 const chalk = require('chalk')
 const { clone } = require('./download')
+
+// 开辟子进程， 并且将错误与日志输出 主进程。
 const spawn = async (...args) => {
     const { spawn } = require('child_process')
     return new Promise(resolve => {
@@ -15,6 +17,7 @@ const spawn = async (...args) => {
     })
 }
 const log = content => console.log(chalk.green(content))
+// 1. 下载git项目， 2. 安装依赖  3. 启动项目 run serve,并且打开浏览器。
 module.exports = async name => {
     // 打印欢迎画面
     clear()

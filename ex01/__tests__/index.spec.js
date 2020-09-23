@@ -17,7 +17,6 @@ export default new Router({
     name: 'index',
     component: () => import('./views/index.vue')
 },
-
     ]
 })`
     )
