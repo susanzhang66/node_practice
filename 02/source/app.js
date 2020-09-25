@@ -27,7 +27,8 @@ const app = new KKB()
 const static = require('./static')
 app.use(static(__dirname + '/public'));
 
-
+// 原生使用
+// app.use(require('koa-static')(__dirname + '/'))
 // 路由的使用
 
 const Router = require('./router')

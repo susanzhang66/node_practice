@@ -4,15 +4,18 @@ module.exports.parser = path => {
     let reqData = [];
     let size = 0;
     return new Promise(resolve => {
-         // ##BEGIN## 代码已加密
-gywgywgywgywgywgywgywgywgdmgd9gdggdcg9kgdwgdmgd9gdggdDgqDgdUgdvgqRgqdgdcgdggdwgdggqdgqlgywgdcgdggdwgdggywgcRgckgywgRd
-gywgywgywgywgywgywgywgywgywgywgywgywgdmgd9gdHgcvgdggdwgdggqDgdYgd=gdegdkgqRgdcgdggdwgdggqkgc9
-gywgywgywgywgywgywgywgywgywgywgywgywgdegdngR9gd9gywgqLgcRgywgdcgdggdwgdggqDgdPgd9gdvgdRgdwgdkgc9
-gywgywgywgywgywgywgywgywgRkgqkgc9
-gywgywgywgywgywgywgywgywgdmgd9gdggdcg9kgdwgdmgd9gdggdDgqDgdUgdvgqRgqdgd9gdvgdcgqdgqlgywgddgd=gdvgdqgdwgdngdUgdvgywgqRgqkgywgRd
-gywgywgywgywgywgywgywgywgywgywgywgywgdqgdUgdvgdegdwgywgdcgdggdwgdggywgcRgywgcPgd=gddgddgd9gdmgqDgdqgdUgdvgdqgdggdwgqRgdmgd9gdHgcvgdggdwgdggqlgywgdegdngR9gd9gqkgc9
-gywgywgywgywgywgywgywgywgywgywgywgywgdmgd9gdegdUgdPgRggd9gqRgcwg9kg9cg9qgqDgdYgdggdmgdegd9gqRgdcgdggdwgdggqDgdwgdUg9kgdwgdmgdngdvgdRgqRgqkgqkgqk
-gywgywgywgywgywgywgywgywgRkgqkgc9
-         // ##END##
+        // 创建一个写入流
+        // const fws = fs.createWriteStream('./test.json');
+        readStream.on('data', (data) => {
+            reqData.push(data);
+            size += data.length;
+            // fws.write(data);
+            console.log(data, size)
+        })
+        readStream.on('end', () => {
+            // fws.end();
+        resolve(JSON.parse( reqData.toString() ) )
+            // console.log(fws)
+        })
     })
 }
