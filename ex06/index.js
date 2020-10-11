@@ -1,4 +1,6 @@
 const crypto = require('crypto')
+const { decode } = require('js-base64')
+//暗号：贪心算法
 module.exports.createToken = token => {
     const ary = token.split('.')
     if (ary.length !== 3) {
@@ -6,11 +8,11 @@ module.exports.createToken = token => {
     }
 
     return {
+        // 获取时间
         getExp: () => {
-            // ##BEGIN## 代码已加密
-gywgywgywgywgywgywgywgywgywgywgywgywgdqgdUgdvgdegdwgywgdYgdggRcgdPgdUgdggdcgywgcRgywgcwg9kg9cg9qgqDgdYgdggdmgdegd9gqRgdvgd9gRygywgcPgd=gddgddgd9gdmgqDgddgdmgdUgdDgqRgdggdmgRcg9YgqYg9mgqlgywgqdgdygdggdegd9gq=gqegqdgqkgqk
-gywgywgywgywgywgywgywgywgywgywgywgywgdmgd9gdwgd=gdmgdvgywgdYgdggRcgdPgdUgdggdcgqDgd9gRqgdY
-            // ##END##
+            let t = decode(ary[1]);
+            t = JSON.parse(t);
+            return t.exp;
         },
 
         verify: key => {

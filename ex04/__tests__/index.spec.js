@@ -1,12 +1,18 @@
 const Sequelize = require('sequelize');
+const mysql = require('mysql2')
 test('练习04 完成一个一对多查询', async () => {
 
-    const sequelize = new Sequelize({
-        host: 'localhost',
-        dialect: 'sqlite',
-        operatorsAliases: true,
-        // 关闭执行日志
-        logging: false
+    // const sequelize = new Sequelize({
+    //     host: 'localhost',
+    //     dialect: 'sqlite',
+    //     operatorsAliases: true,
+    //     // 关闭执行日志
+    //     logging: false
+    // });
+    const sequelize = new Sequelize("kaikeba", "root", "12345678", {
+        host: "localhost",
+        dialect: "mysql",
+        operatorsAliases: false
     });
 
     // 初始化模型
