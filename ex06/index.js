@@ -1,5 +1,5 @@
 const crypto = require('crypto')
-const { decode } = require('js-base64')
+// const { decode } = require('js-base64')
 //暗号：贪心算法
 module.exports.createToken = token => {
     const ary = token.split('.')
@@ -10,8 +10,9 @@ module.exports.createToken = token => {
     return {
         // 获取时间
         getExp: () => {
-            let t = decode(ary[1]);
+            let t =Buffer.from(ary[1], 'base64').toString();
             t = JSON.parse(t);
+            // console.log(t);
             return t.exp;
         },
 

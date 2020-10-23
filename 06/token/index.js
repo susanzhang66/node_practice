@@ -22,8 +22,9 @@ router.post('/login-token', async ctx => {
   ctx.body = {
     message: "登录成功",
     user: userinfo,
-    // 生成 token 返回给客户端
+    // 生成 token 返回给客户端，  
     token: jwt.sign(
+      // 第一个参数， 用于token加密的 payload
       {
         // 实际用acountId返回即可，避免敏感信息存储客户端
         data:userinfo,
@@ -36,7 +37,7 @@ router.post('/login-token', async ctx => {
 })
 
 
-// 先解密，看下是否成功，
+// 先解密，看下是否成功，再进入程序。
 router.get("/getUser-token", jwtAuth({secret}), async ctx => {
   // 验证通过{}
   ctx.body = {

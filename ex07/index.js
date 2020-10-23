@@ -1,4 +1,5 @@
 const fs = require('fs')
+// 暗号：分治算法
 module.exports.createLoader = config => {
     const loader = (scanFolder, cb) => {
         const files = fs.readdirSync(scanFolder);
@@ -11,13 +12,11 @@ module.exports.createLoader = config => {
 
     return {
         initFunction: scanFolder => {
-            const ret = {}
-            // ##BEGIN## 代码已加密
-gywgywgywgywgywgywgywgywgywgywgywgywgdPgdUgdggdcgd9gdmgqRgdegdqgdggdvgcYgdUgdPgdcgd9gdmgqlgywgqRgddgdngdPgd9gdvgdggdDgd9gqlgywgdqgdmgd9gdggdwgd9gcYgd=gdvgqkgywgcRgckgywgRd
-gywgywgywgywgywgywgywgywgywgywgywgywgywgywgywgywgdqgdUgdvgdegdwgywgddgd=gdvgdqgywgcRgywgdqgdmgd9gdggdwgd9gcYgd=gdvgqRgdqgdUgdvgddgdngdRgqk
-gywgywgywgywgywgywgywgywgywgywgywgywgywgywgywgywgdmgd9gdwg9YgddgdngdPgd9gdvgdggdDgd9g9mgywgcRgywgddgd=gdvgdq
-gywgywgywgywgywgywgywgywgywgywgywgywgRkgqk
-            // ##END##
+            let ret = {}
+            loader(scanFolder, (filename, file)=>{
+                ret[filename] = file(config);
+                
+            })
             return ret
         }
     }

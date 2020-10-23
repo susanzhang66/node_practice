@@ -8,6 +8,8 @@ services:
  hello-world:
  image: hello-world
 
+运行：
+docker-compose up
 
  # 09compose项目
 

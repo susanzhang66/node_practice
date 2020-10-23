@@ -17,6 +17,9 @@ docker stop ff6
 docker ps
 docker ps -a // 查看全部
 # 伪终端 ff6容器的uuid
+# -t 选项让Docker分配一个伪终端（pseudo-tty）并绑定到容器的标准输入上，
+# -i 则让容器的标准输入保持打开
+# 伪终端 ff6容器的uuid
 docker exec -it ff6 /bin/bash
 # 删除镜像  f66(是容器的id)
 docker rm ff6
