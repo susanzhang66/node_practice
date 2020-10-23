@@ -1,0 +1,66 @@
+2020-10-14 12:39:03,271 INFO 79927 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 57056733ms at 2020-10-15 04:30:00.004
+2020-10-14 12:39:03,271 INFO 79927 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 40856729ms at 2020-10-15 00:00:00.000
+2020-10-14 12:39:03,272 INFO 79927 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 40857729ms at 2020-10-15 00:00:01.001
+2020-10-14 12:39:03,116 INFO 79928 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 12:39:03,116 INFO 79928 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 12:39:03,116 INFO 79928 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 12:40:26,424 INFO 79952 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 12:40:26,424 INFO 79952 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 12:40:26,424 INFO 79952 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 12:40:54,092 INFO 79973 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 12:40:54,092 INFO 79973 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 12:40:54,092 INFO 79973 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:16:05,822 INFO 82172 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54834181ms at 2020-10-15 04:30:00.003
+2020-10-14 13:16:05,823 INFO 82172 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38634177ms at 2020-10-15 00:00:00.000
+2020-10-14 13:16:05,823 INFO 82172 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38635177ms at 2020-10-15 00:00:01.000
+2020-10-14 13:16:05,635 INFO 82173 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:16:05,635 INFO 82173 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:16:05,635 INFO 82173 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:17:07,271 INFO 82191 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:17:07,271 INFO 82191 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:17:07,271 INFO 82191 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:18:54,649 INFO 82361 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54665354ms at 2020-10-15 04:30:00.003
+2020-10-14 13:18:54,649 INFO 82361 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38465351ms at 2020-10-15 00:00:00.000
+2020-10-14 13:18:54,649 INFO 82361 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38466351ms at 2020-10-15 00:00:01.000
+2020-10-14 13:18:54,574 INFO 82423 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:18:54,574 INFO 82423 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:18:54,574 INFO 82423 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:19:20,953 INFO 82478 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:19:20,953 INFO 82478 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:19:20,953 INFO 82478 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:21:39,643 INFO 82538 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54500360ms at 2020-10-15 04:30:00.003
+2020-10-14 13:21:39,643 INFO 82538 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38300357ms at 2020-10-15 00:00:00.000
+2020-10-14 13:21:39,644 INFO 82538 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38301357ms at 2020-10-15 00:00:01.001
+2020-10-14 13:21:39,496 INFO 82542 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:21:39,496 INFO 82542 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:21:39,496 INFO 82542 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:35:06,461 INFO 83507 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:35:06,461 INFO 83507 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:35:06,461 INFO 83507 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:35:46,943 INFO 83540 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:35:46,944 INFO 83540 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:35:46,944 INFO 83540 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:37:41,616 INFO 83781 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:37:41,616 INFO 83781 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:37:41,616 INFO 83781 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:38:15,489 INFO 83815 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 53504514ms at 2020-10-15 04:30:00.003
+2020-10-14 13:38:15,490 INFO 83815 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 37304511ms at 2020-10-15 00:00:00.001
+2020-10-14 13:38:15,490 INFO 83815 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 37305510ms at 2020-10-15 00:00:01.000
+2020-10-14 13:38:15,415 INFO 83819 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:38:15,415 INFO 83819 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:38:15,415 INFO 83819 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:41:48,171 INFO 84068 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:41:48,171 INFO 84068 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:41:48,171 INFO 84068 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:48:01,289 INFO 84574 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:48:01,289 INFO 84574 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:48:01,289 INFO 84574 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:50:53,507 INFO 84885 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 52746497ms at 2020-10-15 04:30:00.004
+2020-10-14 13:50:53,507 INFO 84885 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36546493ms at 2020-10-15 00:00:00.000
+2020-10-14 13:50:53,507 INFO 84885 [Timer] /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36547493ms at 2020-10-15 00:00:01.000
+2020-10-14 13:50:53,427 INFO 84886 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:50:53,427 INFO 84886 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:50:53,427 INFO 84886 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-10-14 13:53:11,839 INFO 84922 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-10-14 13:53:11,839 INFO 84922 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-10-14 13:53:11,839 INFO 84922 [egg-schedule]: register schedule /Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

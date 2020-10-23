@@ -1,0 +1,273 @@
+{
+  "keys": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/config/config.default.js"
+    },
+    "root": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/config/config.default.js",
+    "serverUrl": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-static/config/config.default.js"
+  },
+  "env": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "main": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "license": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "moment": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "port": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg/config/config.default.js"
+}

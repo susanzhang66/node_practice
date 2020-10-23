@@ -1,0 +1,228 @@
+2020-10-14 13:19:23,167 ERROR 82478 [-/127.0.0.1/-/9ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 82478
+hostname: rainbowdeMBP
+
+2020-10-14 13:19:26,575 ERROR 82478 [-/127.0.0.1/-/2ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 82478
+hostname: rainbowdeMBP
+
+2020-10-14 13:21:48,879 ERROR 82542 [-/127.0.0.1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 82542
+hostname: rainbowdeMBP
+
+2020-10-14 13:21:50,094 ERROR 82542 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 82542
+hostname: rainbowdeMBP
+
+2020-10-14 13:21:50,804 ERROR 82542 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 82542
+hostname: rainbowdeMBP
+
+2020-10-14 13:21:51,024 ERROR 82542 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 82542
+hostname: rainbowdeMBP
+
+2020-10-14 13:35:12,284 ERROR 83507 [-/127.0.0.1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 83507
+hostname: rainbowdeMBP
+
+2020-10-14 13:35:13,353 ERROR 83507 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 83507
+hostname: rainbowdeMBP
+
+2020-10-14 13:35:13,608 ERROR 83507 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 83507
+hostname: rainbowdeMBP
+
+2020-10-14 13:35:13,801 ERROR 83507 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 83507
+hostname: rainbowdeMBP
+
+2020-10-14 13:35:55,284 ERROR 83540 [-/127.0.0.1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 83540
+hostname: rainbowdeMBP
+
+2020-10-14 13:38:24,663 ERROR 83819 [-/127.0.0.1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 83819
+hostname: rainbowdeMBP
+
+2020-10-14 13:48:07,635 ERROR 84574 [-/127.0.0.1/-/11ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 84574
+hostname: rainbowdeMBP
+
+2020-10-14 13:48:08,592 ERROR 84574 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 84574
+hostname: rainbowdeMBP
+
+2020-10-14 13:48:08,807 ERROR 84574 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 84574
+hostname: rainbowdeMBP
+
+2020-10-14 13:48:09,398 ERROR 84574 [-/127.0.0.1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 84574
+hostname: rainbowdeMBP
+
+2020-10-14 13:51:05,714 ERROR 84886 [-/127.0.0.1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 84886
+hostname: rainbowdeMBP
+
+2020-10-14 13:51:06,499 ERROR 84886 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 84886
+hostname: rainbowdeMBP
+
+2020-10-14 13:51:06,647 ERROR 84886 [-/127.0.0.1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/rainbow/Documents/工作/node项目/kkb/07/egg/node_modules/egg-view/lib/context_view.js:69:39)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 84886
+hostname: rainbowdeMBP
+

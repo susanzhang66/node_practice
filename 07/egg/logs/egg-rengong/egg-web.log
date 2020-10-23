@@ -1,0 +1,224 @@
+2020-10-14 12:39:03,086 INFO 79928 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 12:39:03,116 INFO 79928 [egg-multipart] stream mode enable
+2020-10-14 12:39:03,230 INFO 79928 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 12:39:03,232 INFO 79928 [egg-security] use csrf middleware
+2020-10-14 12:39:03,233 INFO 79928 [egg-security] use methodnoallow middleware
+2020-10-14 12:39:03,234 INFO 79928 [egg-security] use noopen middleware
+2020-10-14 12:39:03,235 INFO 79928 [egg-security] use nosniff middleware
+2020-10-14 12:39:03,235 INFO 79928 [egg-security] use xssProtection middleware
+2020-10-14 12:39:03,236 INFO 79928 [egg-security] use xframe middleware
+2020-10-14 12:39:03,237 INFO 79928 [egg-security] use dta middleware
+2020-10-14 12:39:03,237 INFO 79928 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 12:39:03,245 INFO 79928 [egg:core] dump config after load, 6ms
+2020-10-14 12:39:03,260 INFO 79928 [egg-watcher:application] watcher start success
+2020-10-14 12:39:03,265 INFO 79928 [egg:core] dump config after ready, 3ms
+2020-10-14 12:40:26,396 INFO 79952 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 12:40:26,425 INFO 79952 [egg-multipart] stream mode enable
+2020-10-14 12:40:26,527 INFO 79952 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 12:40:26,529 INFO 79952 [egg-security] use csrf middleware
+2020-10-14 12:40:26,530 INFO 79952 [egg-security] use methodnoallow middleware
+2020-10-14 12:40:26,531 INFO 79952 [egg-security] use noopen middleware
+2020-10-14 12:40:26,532 INFO 79952 [egg-security] use nosniff middleware
+2020-10-14 12:40:26,532 INFO 79952 [egg-security] use xssProtection middleware
+2020-10-14 12:40:26,533 INFO 79952 [egg-security] use xframe middleware
+2020-10-14 12:40:26,534 INFO 79952 [egg-security] use dta middleware
+2020-10-14 12:40:26,534 INFO 79952 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 12:40:26,544 INFO 79952 [egg:core] dump config after load, 6ms
+2020-10-14 12:40:26,555 INFO 79952 [egg-watcher:application] watcher start success
+2020-10-14 12:40:26,559 INFO 79952 [egg:core] dump config after ready, 2ms
+2020-10-14 12:40:54,068 INFO 79973 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 12:40:54,093 INFO 79973 [egg-multipart] stream mode enable
+2020-10-14 12:40:54,139 INFO 79973 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 12:40:54,141 INFO 79973 [egg-security] use csrf middleware
+2020-10-14 12:40:54,141 INFO 79973 [egg-security] use methodnoallow middleware
+2020-10-14 12:40:54,141 INFO 79973 [egg-security] use noopen middleware
+2020-10-14 12:40:54,142 INFO 79973 [egg-security] use nosniff middleware
+2020-10-14 12:40:54,142 INFO 79973 [egg-security] use xssProtection middleware
+2020-10-14 12:40:54,142 INFO 79973 [egg-security] use xframe middleware
+2020-10-14 12:40:54,142 INFO 79973 [egg-security] use dta middleware
+2020-10-14 12:40:54,142 INFO 79973 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 12:40:54,151 INFO 79973 [egg:core] dump config after load, 6ms
+2020-10-14 12:40:54,160 INFO 79973 [egg-watcher:application] watcher start success
+2020-10-14 12:40:54,165 INFO 79973 [egg:core] dump config after ready, 3ms
+2020-10-14 13:16:05,613 INFO 82173 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:16:05,635 INFO 82173 [egg-multipart] stream mode enable
+2020-10-14 13:16:05,769 INFO 82173 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:16:05,771 INFO 82173 [egg-security] use csrf middleware
+2020-10-14 13:16:05,773 INFO 82173 [egg-security] use methodnoallow middleware
+2020-10-14 13:16:05,774 INFO 82173 [egg-security] use noopen middleware
+2020-10-14 13:16:05,775 INFO 82173 [egg-security] use nosniff middleware
+2020-10-14 13:16:05,776 INFO 82173 [egg-security] use xssProtection middleware
+2020-10-14 13:16:05,778 INFO 82173 [egg-security] use xframe middleware
+2020-10-14 13:16:05,779 INFO 82173 [egg-security] use dta middleware
+2020-10-14 13:16:05,779 INFO 82173 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:16:05,792 INFO 82173 [egg:core] dump config after load, 7ms
+2020-10-14 13:16:05,812 INFO 82173 [egg-watcher:application] watcher start success
+2020-10-14 13:16:05,817 INFO 82173 [egg:core] dump config after ready, 3ms
+2020-10-14 13:17:07,239 INFO 82191 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:17:07,271 INFO 82191 [egg-multipart] stream mode enable
+2020-10-14 13:17:07,369 INFO 82191 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:17:07,371 INFO 82191 [egg-security] use csrf middleware
+2020-10-14 13:17:07,372 INFO 82191 [egg-security] use methodnoallow middleware
+2020-10-14 13:17:07,373 INFO 82191 [egg-security] use noopen middleware
+2020-10-14 13:17:07,373 INFO 82191 [egg-security] use nosniff middleware
+2020-10-14 13:17:07,374 INFO 82191 [egg-security] use xssProtection middleware
+2020-10-14 13:17:07,374 INFO 82191 [egg-security] use xframe middleware
+2020-10-14 13:17:07,375 INFO 82191 [egg-security] use dta middleware
+2020-10-14 13:17:07,375 INFO 82191 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:17:07,384 INFO 82191 [egg:core] dump config after load, 5ms
+2020-10-14 13:17:07,394 INFO 82191 [egg-watcher:application] watcher start success
+2020-10-14 13:17:07,399 INFO 82191 [egg:core] dump config after ready, 3ms
+2020-10-14 13:18:54,552 INFO 82423 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:18:54,575 INFO 82423 [egg-multipart] stream mode enable
+2020-10-14 13:18:54,615 INFO 82423 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:18:54,617 INFO 82423 [egg-security] use csrf middleware
+2020-10-14 13:18:54,618 INFO 82423 [egg-security] use methodnoallow middleware
+2020-10-14 13:18:54,618 INFO 82423 [egg-security] use noopen middleware
+2020-10-14 13:18:54,618 INFO 82423 [egg-security] use nosniff middleware
+2020-10-14 13:18:54,618 INFO 82423 [egg-security] use xssProtection middleware
+2020-10-14 13:18:54,619 INFO 82423 [egg-security] use xframe middleware
+2020-10-14 13:18:54,619 INFO 82423 [egg-security] use dta middleware
+2020-10-14 13:18:54,619 INFO 82423 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:18:54,626 INFO 82423 [egg:core] dump config after load, 4ms
+2020-10-14 13:18:54,638 INFO 82423 [egg-watcher:application] watcher start success
+2020-10-14 13:18:54,643 INFO 82423 [egg:core] dump config after ready, 3ms
+2020-10-14 13:19:20,923 INFO 82478 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:19:20,954 INFO 82478 [egg-multipart] stream mode enable
+2020-10-14 13:19:21,046 INFO 82478 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:19:21,049 INFO 82478 [egg-security] use csrf middleware
+2020-10-14 13:19:21,051 INFO 82478 [egg-security] use methodnoallow middleware
+2020-10-14 13:19:21,051 INFO 82478 [egg-security] use noopen middleware
+2020-10-14 13:19:21,052 INFO 82478 [egg-security] use nosniff middleware
+2020-10-14 13:19:21,053 INFO 82478 [egg-security] use xssProtection middleware
+2020-10-14 13:19:21,053 INFO 82478 [egg-security] use xframe middleware
+2020-10-14 13:19:21,054 INFO 82478 [egg-security] use dta middleware
+2020-10-14 13:19:21,054 INFO 82478 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:19:21,065 INFO 82478 [egg:core] dump config after load, 5ms
+2020-10-14 13:19:21,077 INFO 82478 [egg-watcher:application] watcher start success
+2020-10-14 13:19:21,082 INFO 82478 [egg:core] dump config after ready, 3ms
+2020-10-14 13:21:39,473 INFO 82542 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:21:39,497 INFO 82542 [egg-multipart] stream mode enable
+2020-10-14 13:21:39,604 INFO 82542 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:21:39,607 INFO 82542 [egg-security] use csrf middleware
+2020-10-14 13:21:39,608 INFO 82542 [egg-security] use methodnoallow middleware
+2020-10-14 13:21:39,608 INFO 82542 [egg-security] use noopen middleware
+2020-10-14 13:21:39,609 INFO 82542 [egg-security] use nosniff middleware
+2020-10-14 13:21:39,610 INFO 82542 [egg-security] use xssProtection middleware
+2020-10-14 13:21:39,610 INFO 82542 [egg-security] use xframe middleware
+2020-10-14 13:21:39,611 INFO 82542 [egg-security] use dta middleware
+2020-10-14 13:21:39,611 INFO 82542 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:21:39,620 INFO 82542 [egg:core] dump config after load, 4ms
+2020-10-14 13:21:39,633 INFO 82542 [egg-watcher:application] watcher start success
+2020-10-14 13:21:39,638 INFO 82542 [egg:core] dump config after ready, 3ms
+2020-10-14 13:35:06,429 INFO 83507 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:35:06,461 INFO 83507 [egg-multipart] stream mode enable
+2020-10-14 13:35:06,600 INFO 83507 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:35:06,604 INFO 83507 [egg-security] use csrf middleware
+2020-10-14 13:35:06,605 INFO 83507 [egg-security] use methodnoallow middleware
+2020-10-14 13:35:06,606 INFO 83507 [egg-security] use noopen middleware
+2020-10-14 13:35:06,606 INFO 83507 [egg-security] use nosniff middleware
+2020-10-14 13:35:06,607 INFO 83507 [egg-security] use xssProtection middleware
+2020-10-14 13:35:06,608 INFO 83507 [egg-security] use xframe middleware
+2020-10-14 13:35:06,609 INFO 83507 [egg-security] use dta middleware
+2020-10-14 13:35:06,609 INFO 83507 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:35:06,622 INFO 83507 [egg:core] dump config after load, 7ms
+2020-10-14 13:35:06,634 INFO 83507 [egg-watcher:application] watcher start success
+2020-10-14 13:35:06,639 INFO 83507 [egg:core] dump config after ready, 4ms
+2020-10-14 13:35:46,908 INFO 83540 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:35:46,944 INFO 83540 [egg-multipart] stream mode enable
+2020-10-14 13:35:47,070 INFO 83540 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:35:47,073 INFO 83540 [egg-security] use csrf middleware
+2020-10-14 13:35:47,074 INFO 83540 [egg-security] use methodnoallow middleware
+2020-10-14 13:35:47,075 INFO 83540 [egg-security] use noopen middleware
+2020-10-14 13:35:47,076 INFO 83540 [egg-security] use nosniff middleware
+2020-10-14 13:35:47,077 INFO 83540 [egg-security] use xssProtection middleware
+2020-10-14 13:35:47,078 INFO 83540 [egg-security] use xframe middleware
+2020-10-14 13:35:47,079 INFO 83540 [egg-security] use dta middleware
+2020-10-14 13:35:47,079 INFO 83540 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:35:47,090 INFO 83540 [egg:core] dump config after load, 4ms
+2020-10-14 13:35:47,102 INFO 83540 [egg-watcher:application] watcher start success
+2020-10-14 13:35:47,107 INFO 83540 [egg:core] dump config after ready, 3ms
+2020-10-14 13:37:41,582 INFO 83781 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:37:41,617 INFO 83781 [egg-multipart] stream mode enable
+2020-10-14 13:37:41,746 INFO 83781 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:37:41,749 INFO 83781 [egg-security] use csrf middleware
+2020-10-14 13:37:41,750 INFO 83781 [egg-security] use methodnoallow middleware
+2020-10-14 13:37:41,750 INFO 83781 [egg-security] use noopen middleware
+2020-10-14 13:37:41,751 INFO 83781 [egg-security] use nosniff middleware
+2020-10-14 13:37:41,751 INFO 83781 [egg-security] use xssProtection middleware
+2020-10-14 13:37:41,752 INFO 83781 [egg-security] use xframe middleware
+2020-10-14 13:37:41,753 INFO 83781 [egg-security] use dta middleware
+2020-10-14 13:37:41,753 INFO 83781 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:37:41,763 INFO 83781 [egg:core] dump config after load, 6ms
+2020-10-14 13:37:41,777 INFO 83781 [egg-watcher:application] watcher start success
+2020-10-14 13:37:41,782 INFO 83781 [egg:core] dump config after ready, 3ms
+2020-10-14 13:38:15,393 INFO 83819 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:38:15,415 INFO 83819 [egg-multipart] stream mode enable
+2020-10-14 13:38:15,456 INFO 83819 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:38:15,458 INFO 83819 [egg-security] use csrf middleware
+2020-10-14 13:38:15,458 INFO 83819 [egg-security] use methodnoallow middleware
+2020-10-14 13:38:15,458 INFO 83819 [egg-security] use noopen middleware
+2020-10-14 13:38:15,459 INFO 83819 [egg-security] use nosniff middleware
+2020-10-14 13:38:15,459 INFO 83819 [egg-security] use xssProtection middleware
+2020-10-14 13:38:15,459 INFO 83819 [egg-security] use xframe middleware
+2020-10-14 13:38:15,460 INFO 83819 [egg-security] use dta middleware
+2020-10-14 13:38:15,460 INFO 83819 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:38:15,467 INFO 83819 [egg:core] dump config after load, 5ms
+2020-10-14 13:38:15,479 INFO 83819 [egg-watcher:application] watcher start success
+2020-10-14 13:38:15,484 INFO 83819 [egg:core] dump config after ready, 3ms
+2020-10-14 13:41:48,139 INFO 84068 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:41:48,172 INFO 84068 [egg-multipart] stream mode enable
+2020-10-14 13:41:48,277 INFO 84068 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:41:48,280 INFO 84068 [egg-security] use csrf middleware
+2020-10-14 13:41:48,280 INFO 84068 [egg-security] use methodnoallow middleware
+2020-10-14 13:41:48,281 INFO 84068 [egg-security] use noopen middleware
+2020-10-14 13:41:48,282 INFO 84068 [egg-security] use nosniff middleware
+2020-10-14 13:41:48,283 INFO 84068 [egg-security] use xssProtection middleware
+2020-10-14 13:41:48,283 INFO 84068 [egg-security] use xframe middleware
+2020-10-14 13:41:48,284 INFO 84068 [egg-security] use dta middleware
+2020-10-14 13:41:48,284 INFO 84068 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:41:48,293 INFO 84068 [egg:core] dump config after load, 4ms
+2020-10-14 13:41:48,302 INFO 84068 [egg-watcher:application] watcher start success
+2020-10-14 13:41:48,307 INFO 84068 [egg:core] dump config after ready, 3ms
+2020-10-14 13:48:01,268 INFO 84574 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:48:01,289 INFO 84574 [egg-multipart] stream mode enable
+2020-10-14 13:48:01,335 INFO 84574 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:48:01,337 INFO 84574 [egg-security] use csrf middleware
+2020-10-14 13:48:01,338 INFO 84574 [egg-security] use methodnoallow middleware
+2020-10-14 13:48:01,338 INFO 84574 [egg-security] use noopen middleware
+2020-10-14 13:48:01,338 INFO 84574 [egg-security] use nosniff middleware
+2020-10-14 13:48:01,338 INFO 84574 [egg-security] use xssProtection middleware
+2020-10-14 13:48:01,339 INFO 84574 [egg-security] use xframe middleware
+2020-10-14 13:48:01,339 INFO 84574 [egg-security] use dta middleware
+2020-10-14 13:48:01,339 INFO 84574 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:48:01,345 INFO 84574 [egg:core] dump config after load, 3ms
+2020-10-14 13:48:01,359 INFO 84574 [egg-watcher:application] watcher start success
+2020-10-14 13:48:01,367 INFO 84574 [egg:core] dump config after ready, 3ms
+2020-10-14 13:50:53,405 INFO 84886 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:50:53,428 INFO 84886 [egg-multipart] stream mode enable
+2020-10-14 13:50:53,471 INFO 84886 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:50:53,473 INFO 84886 [egg-security] use csrf middleware
+2020-10-14 13:50:53,473 INFO 84886 [egg-security] use methodnoallow middleware
+2020-10-14 13:50:53,473 INFO 84886 [egg-security] use noopen middleware
+2020-10-14 13:50:53,474 INFO 84886 [egg-security] use nosniff middleware
+2020-10-14 13:50:53,474 INFO 84886 [egg-security] use xssProtection middleware
+2020-10-14 13:50:53,474 INFO 84886 [egg-security] use xframe middleware
+2020-10-14 13:50:53,474 INFO 84886 [egg-security] use dta middleware
+2020-10-14 13:50:53,474 INFO 84886 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:50:53,481 INFO 84886 [egg:core] dump config after load, 4ms
+2020-10-14 13:50:53,495 INFO 84886 [egg-watcher:application] watcher start success
+2020-10-14 13:50:53,500 INFO 84886 [egg:core] dump config after ready, 3ms
+2020-10-14 13:53:11,812 INFO 84922 [egg:logger] init all loggers with options: {"dir":"/Users/rainbow/Documents/工作/node项目/kkb/07/egg/logs/egg-rengong","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-rengong-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-14 13:53:11,839 INFO 84922 [egg-multipart] stream mode enable
+2020-10-14 13:53:11,975 INFO 84922 [egg-static] starting static serve /public/ -> /Users/rainbow/Documents/工作/node项目/kkb/07/egg/app/public
+2020-10-14 13:53:11,978 INFO 84922 [egg-security] use csrf middleware
+2020-10-14 13:53:11,980 INFO 84922 [egg-security] use methodnoallow middleware
+2020-10-14 13:53:11,980 INFO 84922 [egg-security] use noopen middleware
+2020-10-14 13:53:11,981 INFO 84922 [egg-security] use nosniff middleware
+2020-10-14 13:53:11,982 INFO 84922 [egg-security] use xssProtection middleware
+2020-10-14 13:53:11,983 INFO 84922 [egg-security] use xframe middleware
+2020-10-14 13:53:11,984 INFO 84922 [egg-security] use dta middleware
+2020-10-14 13:53:11,984 INFO 84922 [egg-security] compose 7 middlewares into one security middleware
+2020-10-14 13:53:11,997 INFO 84922 [egg:core] dump config after load, 5ms
+2020-10-14 13:53:12,008 INFO 84922 [egg-watcher:application] watcher start success
+2020-10-14 13:53:12,013 INFO 84922 [egg:core] dump config after ready, 3ms
